@@ -1,6 +1,6 @@
 # assets-videos
 
-Biblioteca de assets para edição de vídeo, motion design e projetos do SportBlox.
+Biblioteca de assets para edição de vídeo, motion design e projetos 
 
 ## Estrutura
 
