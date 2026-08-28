@@ -1,5 +1,6 @@
 name: Build asset bank
 
+# alteração proposital para disparar a primeira geração do banco
 on:
   workflow_dispatch:
   push:
