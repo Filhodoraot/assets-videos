@@ -2,6 +2,12 @@
 
 A pasta é pensada para edição de vídeo e motion design. Os arquivos gerados pelo projeto são livres para usar nos nossos projetos.
 
+## Atalho para assets externos
+
+Antes de começar um vídeo, consulte também **`asset-roadmap.md`**. Ele tem tabelas com nomes, categorias, uso e links rápidos para Pixabay, Mixkit, Pexels, Freesound, Wikimedia Commons e NASA.
+
+Esse arquivo funciona como nosso caminho rápido para achar áudio, GIF, footage, imagens, texturas e música sem começar a pesquisa do zero toda vez.
+
 ## Imagens / backgrounds
 
 `images/backgrounds/`
